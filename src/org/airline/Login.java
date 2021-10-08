@@ -2,10 +2,10 @@ package org.airline;
 
 public class Login {
 	
-	public static void password() {
-  System.out.println("password");
+	public static void login() {
+  System.out.println("login");
   }
 public static void main(String[] args) {
-	password();
+	login();
 }
 }
